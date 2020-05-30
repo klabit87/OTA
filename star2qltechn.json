@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1589420383",
-      "filename": "lineage-17.1-20200514-UNOFFICIAL-star2qltechn.zip",
-      "id": "7d08dc4ede0c8d40a099e47df71ebf8e",
+      "datetime": "1590789506",
+      "filename": "lineage-17.1-20200529-UNOFFICIAL-star2qltechn.zip",
+      "id": "bb0546d900d13daf62fca4af00cd33df",
       "romtype": "UNOFFICIAL",
-      "size": "550323479",
-      "url": "https://github.com/klabit87/OTA/releases/download/14-05-2020/lineage-17.1-20200514-UNOFFICIAL-star2qltechn.zip",
+      "size": "557673895",
+      "url": "https://github.com/klabit87/OTA/releases/download/29-05-2020/lineage-17.1-20200529-UNOFFICIAL-star2qltechn.zip",
       "version": "17.1"
     }
   ]

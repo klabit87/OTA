@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1589426907",
-      "filename": "lineage-17.1-20200514-UNOFFICIAL-starqltechn.zip",
-      "id": "511a16719759d249e4b222bae20eb2c7",
+      "datetime": "1590793684",
+      "filename": "lineage-17.1-20200529-UNOFFICIAL-starqltechn.zip",
+      "id": "8dcc37ec3f67749300da43c47124550a",
       "romtype": "UNOFFICIAL",
-      "size": "550306595",
-      "url": "https://github.com/klabit87/OTA/releases/download/14-05-2020/lineage-17.1-20200514-UNOFFICIAL-starqltechn.zip",
+      "size": "557686383",
+      "url": "https://github.com/klabit87/OTA/releases/download/29-05-2020/lineage-17.1-20200529-UNOFFICIAL-starqltechn.zip",
       "version": "17.1"
     }
   ]
