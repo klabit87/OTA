@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1590796483",
-      "filename": "lineage-17.1-20200529-UNOFFICIAL-crownqltechn.zip",
-      "id": "9fdf340cf2364043c6b1a939c1fc5083",
+      "datetime": "1591566330",
+      "filename": "lineage-17.1-20200607-UNOFFICIAL-crownqltechn.zip",
+      "id": "bea788cd63cf25de601b7c14ee450c24",
       "romtype": "UNOFFICIAL",
-      "size": "556363664",
-      "url": "https://github.com/klabit87/OTA/releases/download/29-05-2020/lineage-17.1-20200529-UNOFFICIAL-crownqltechn.zip",
+      "size": "556104544",
+      "url": "https://github.com/klabit87/OTA/releases/download/7-06-2020/lineage-17.1-20200607-UNOFFICIAL-crownqltechn.zip",
       "version": "17.1"
     }
   ]
