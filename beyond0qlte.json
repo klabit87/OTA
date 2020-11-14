@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": "1602285465",
-      "filename": "lineage-17.1-20201008-UNOFFICIAL-beyond0qlte.zip",
-      "id": "0f632a26827906328c4cf95600da2037",
+      "filename": "lineage-17.1-20201009-UNOFFICIAL-beyond0qlte.zip",
+      "id": "600166591d03cc5d3318ce56eed02fea",
       "romtype": "UNOFFICIAL",
-      "size": "620235801",
-      "url": "https://github.com/klabit87/OTA/releases/download/8-10-2020/lineage-17.1-20201008-UNOFFICIAL-beyond0qlte.zip",
+      "size": "620211551",
+      "url": "https://github.com/klabit87/OTA/releases/download/sm8150_10-9-2020/lineage-17.1-20201009-UNOFFICIAL-beyond0qlte.zip",
       "version": "17.1"
     }
   ]
